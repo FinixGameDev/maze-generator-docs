@@ -1,0 +1,12 @@
+[book]
+authors = ["FinixGameDev"]
+language = "en"
+multilingual = false
+src = "src"
+title = ""
+
+[output.html]
+default-theme = "finix"
+preferred-dark-theme = "finix"
+git-repository-url = "https://github.com/FinixGameDev"
+git-repository-icon = "fa-github"
