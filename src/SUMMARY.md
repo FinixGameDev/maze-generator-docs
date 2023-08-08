@@ -1,6 +1,7 @@
 # Summary
 
-[Introduction](README.md)
+[Finix's Maze Generator Documentation](README.md)
+
 -----------
 
 # User Guide
