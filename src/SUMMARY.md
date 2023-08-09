@@ -2,16 +2,15 @@
 
 [Finix's Maze Generator Documentation](README.md)
 
------------
-
 # User Guide
+-----------
 - [Installation](./guide/installation.md)
 - [Getting Started](./guide/getting_started.md)
   - [Setting Up Prefabs](./guide/prefabs.md)
 - [Package Contents](./guide/package_contents.md)
------------
-
+  
 # Scripting Reference
+-----------
 - [MazeGenerator](./scripting_reference/maze_generator_scripting_intro.md)
   - [Maze](./scripting_reference/maze_class.md) 
   - [QuadMaze](./scripting_reference/quad_maze_class.md) 
@@ -28,7 +27,6 @@
   - [Distances](./scripting_reference/distances.md)
 - [MazeGenerator.EditorScripts](./scripting_reference/editor.md)
   - [MazeEditor](./scripting_reference/maze_editor.md)
------------
 
 
 
