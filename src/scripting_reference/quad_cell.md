@@ -6,13 +6,13 @@ Class that represents the basic unit of a  [QuadGrid](./quad_grid.md) and by ext
 ## Constructor
 | Type     | Result                                                                                            |
 | :------- | :------------------------------------------------------------------------------------------------ |
-| QuadCell | Creates a new cell with the given row and collumn components, sets the neighbouring cells to null |
+| QuadCell | Creates a new cell with the given row and collumn components, sets the neighbouring cells to null. |
 
 ## Properties
 | Property                 | Description                                                                      |
 | :----------------------- | :------------------------------------------------------------------------------- |
-| row                      | The position of the Cell within the [QuadGrid](./grid.md) on the horizontal axis |
-| collumn                  | The position of the Cell within the [QuadGrid](./grid.md) on the vertical axis   |
+| row                      | The position of the Cell within the [QuadGrid](./grid.md) on the horizontal axis. |
+| collumn                  | The position of the Cell within the [QuadGrid](./grid.md) on the vertical axis.   |
 | north, east, west, south | References to each of the four neighbouring Cells relative to this one.          |
 
 ## Inherited Members

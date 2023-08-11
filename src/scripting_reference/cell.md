@@ -7,7 +7,7 @@ An Abstract Class that represents the basic unit of a maze. Similar to a node in
 ## Properties
 | Property | Description                            |
 | :------- | :------------------------------------- |
-| links    | Array of all Cells linked to this Cell |
+| links    | Array of all Cells linked to this Cell. |
 
 ## Public Methods
 |Method|Description|

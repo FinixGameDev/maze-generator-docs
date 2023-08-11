@@ -7,7 +7,7 @@ A class that represents a rectangular Maze in it's raw data form without any gra
 ## Constructor
 | Type     | Result                                                                                                                     |
 | :------- | :------------------------------------------------------------------------------------------------------------------------- |
-| QuadGrid | Creates a new grid with the given row and collumn components, creates a new collection of cells and assings it's neighbors |
+| QuadGrid | Creates a new grid with the given row and collumn components, creates a new collection of cells and assings it's neighbors. |
 
 ## Properties
 | Property  | Description                                                                                         |
