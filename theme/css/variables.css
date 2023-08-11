@@ -37,9 +37,9 @@
     --quote-bg: hsl(60, 5%, 75%);
     --quote-border: hsl(60, 5%, 70%);
 
-    --table-border-color: hsl(60, 9%, 82%);
-    --table-header-bg: #b3a497;
-    --table-alternate-bg: hsl(60, 9%, 84%);
+    --table-border-color: #c8c9db;
+    --table-header-bg: #272121;
+    --table-alternate-bg: #272121;
 
     --searchbar-border-color: #aaa;
     --searchbar-bg: #fafafa;
