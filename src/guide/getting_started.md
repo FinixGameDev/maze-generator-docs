@@ -25,4 +25,9 @@ You're main concern now should be setting up your desired prefabs. To do so firs
 By doing this you can now admire your very own procedurally generated maze and change it's layout with a few clicks of a button. You can leave it static and manually adjust it to your liking or toggle the Generate On Start checkbox to generate a new map layout each time the scene loads.
 
 ### Adding Modifiers
-Modifiers are Components that can 
+Modifiers are Components that can change both the Layout and Tile generation of the Maze. To use one of the already built modifiers ([EntranceExitModifier](../scripting_reference/entrance_exit_modifier.md), [UniqueTileModifier](../scripting_reference/entrance_tile_modifier.md)):
+* Select the Maze game object and, on the inspector window, click  the Add Component button. 
+  * Alternitavely you can search for the script in the Project window and drag it into the Inspector window.
+* Search for your desired modifier and click on it.
+* Assign the correct parameters, which will very from modifier to modifer. Check the scripting reference for more info if needed.
+* Click create maze.
