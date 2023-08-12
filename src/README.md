@@ -4,6 +4,4 @@ Hello and thanks for checking out my [asset](https://u3d.as/385Q) for maze gener
 
 Inspired by Mazes for Programmers by Jamis Buck this tool comes with a variety of features such as swapable generation [algorithms](./scripting_reference/algorithms.md), multiple instatiation methods and [modifier](./scripting_reference/modifiers.md) components to further customize your desired maze.
 
-To see the docs click [here](https://finixgamedev.github.io/maze-generator-docs/)
-
 ![KeyBanner](./imgs/Maze%20Generator%20Key%20Image.jpeg)
