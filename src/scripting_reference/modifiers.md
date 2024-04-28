@@ -3,8 +3,6 @@ This section refers to the modifiers feature of the asset. Modifiers are extra c
 
 Currently this tool only has a feature for prefabs modifiers and comes with 2 pre-built modifiers to test the feature. To learn more about making your own modifiers check the [IMazePrefabModifier](./prefab_modifier_interface.md) interface.
 
->Warning: Currently modifiers can be very CPU intensive, as such, it's not recomended to use modifiers in mazes that have a cell count above 400.
-
 ## Table of Contents
 * [IMazePrefabModifier](./prefab_modifier_interface.md)
   * [EntraceExitModifier](./entrance_exit_modifier.md)
