@@ -5,5 +5,5 @@ Currently this tool only has a feature for prefabs modifiers and comes with 2 pr
 
 ## Table of Contents
 * [IMazePrefabModifier](./prefab_modifier_interface.md)
-  * [EntraceExitModifier](./entrance_exit_modifier.md)
+  * [AbsoluteLongestPathModifier](./absolute_longest_path_modifier.md)
   * [UniqueTileModifier](./entrance_tile_modifier.md)

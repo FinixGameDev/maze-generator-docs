@@ -18,7 +18,7 @@
     - [QuadMaze](./scripting_reference/quad_maze_class.md) 
   - [Modifiers](./scripting_reference/modifiers.md)
     - [IPrefabMazeModifier](./scripting_reference/prefab_modifier_interface.md)
-      - [EntranceExitModifier](./scripting_reference/entrance_exit_modifier.md)
+      - [AbsoluteLongestPathModifier](./scripting_reference/absolute_longest_path_modifier.md)
       - [UniqueTileModifier](./scripting_reference/entrance_tile_modifier.md)
 - [Core Namespace](./scripting_reference/core.md)
   - [Cell](./scripting_reference/cell.md)
