@@ -1,4 +1,4 @@
-# Grid
+# MazeGrid
 class in FinixMakesGames.MazeGenerator.Core 
 
 ## Description

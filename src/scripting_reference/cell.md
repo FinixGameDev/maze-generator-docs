@@ -1,8 +1,8 @@
-# Cell
+# MazeCell
 class in FinixMakesGames.MazeGenerator.Core 
 
 ## Description
-An Abstract Class that represents the basic unit of a maze. Similar to a node in a graph, the Cell is meant to represent a point in a maze [Grid](./grid.md) and it stores how that point connects to other neighbouring points/Cells.
+An Abstract Class that represents the basic unit of a maze. Similar to a node in a graph, the Cell is meant to represent a point in a [MazeGrid](./grid.md) and it stores how that point connects to other neighbouring points/Cells.
 
 ## Properties
 | Property | Description                            |

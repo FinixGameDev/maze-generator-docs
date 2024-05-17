@@ -9,7 +9,7 @@ A modifier designed to select candidate Cells and chooses a random one to apply 
 | Property   | Description                                                  |
 | :--------- | :----------------------------------------------------------- |
 | tilePrefab | The tile used for the unique cell.                            |
-| tileLinks  | How many links/paths the entrance prefab is supposed to have. |
+| tileType   | The format of the tile you want to switch |
 
 
 ## Inhereted Members
