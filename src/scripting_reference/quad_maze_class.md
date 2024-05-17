@@ -26,7 +26,7 @@ A Unity component capable of creating rectangular mazes.
 | generateOnStart     | If set to true, it will generate a new maze every time the scene loads on the Start() frame.                                                                                                                         |
 | ---                 | ---                                                                                                                                                                                                                  |
 | grid                | A [QuadGrid](./quad_grid.md) class with the maze layout information                                                                                                                                                  |
-| uniqueTiles         | A dictionary of Cells and Prefabs used for [Modifiers](./modifiers.md) and the prefab tiles method. When detecting a cell contained in the dictionary it will spawn the corresponding prefab instead of a random one. |
+| uniqueTiles         | A dictionary of Cells and Prefabs used for [Modifiers](./modifiers/modifiers.md) and the prefab tiles method. When detecting a cell contained in the dictionary it will spawn the corresponding prefab instead of a random one. |
 
 ## Public Methods
 | Method     | Description                                     |

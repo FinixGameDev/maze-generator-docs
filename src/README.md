@@ -1,6 +1,6 @@
  # Finix's Maze Generator
 
-Current Version: 1.0.1
+Current Version: 1.1.0
 
 Hello and thanks for checking out my [asset](https://u3d.as/385Q) for maze generation in the Unity Game Engine. Here you can find all the documentation to get started as well as extending the package to fit your needs.
 

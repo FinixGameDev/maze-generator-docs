@@ -3,3 +3,4 @@ This Section refers to additional Unity.Editor scripts used to enhance the user 
 
 ## Table of Contents
 * [MazeEditor](./maze_editor.md)
+* [MazePrinter](./maze_printer.md)

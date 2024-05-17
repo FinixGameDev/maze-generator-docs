@@ -42,11 +42,18 @@
         │   │   └── Distances.cs
         │   ├── Editor/
         │   │   ├── MazeEditor.cs
+        │   │   ├── MazePrintEditor.cs
         │   │   └── StandardTriplanarInspector.cs
-        │   ├── EntranceExitModifier.cs
-        │   ├── IMazePrefabModifier.cs
-        │   ├── QuadMaze.cs
-        │   └── UniqueTileModifier.cs
+        │   ├── Modifiers/
+        │   |   ├── AbsoluteLongestPathModifier.cs
+        │   |   ├── CellLinkModifier.cs
+        │   |   ├── RandomTileModifier.cs
+        │   │   └── RelativeLongestPathModifier.cs
+        │   ├── IQuadMazeDataModifier.cs
+        │   ├── IQuadMazePrefabModifier.cs
+        │   ├── Maze.cs
+        │   ├── MazePrinter.cs
+        │   └── QuadMaze.cs
         ├── FinixMazeGenerator.asmdef
         ├── ThirdPartyNotcice.md
         ├── README.md

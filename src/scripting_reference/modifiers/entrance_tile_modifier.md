@@ -1,5 +1,5 @@
-# UniqueTileModifier
-class in FinixMakesGames.MazeGenerator / Inherits from:[MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html), [IMazePrefabModifier](./prefab_modifier_interface.md)
+# RandomTileModifier
+class in FinixMakesGames.MazeGenerator / Inherits from:[MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html), [IQuadMazePrefabModifier](./prefab_modifier_interface.md)
 
 ## Description
 A modifier designed to select candidate Cells and chooses a random one to apply a choosen prefab.
@@ -14,7 +14,7 @@ A modifier designed to select candidate Cells and chooses a random one to apply 
 
 ## Inhereted Members
 
-## Public Methods
+### Public Methods
 | Method        | Description                                                                                    |
 | :------------ | :--------------------------------------------------------------------------------------------- |
-| ApplyModifier | Adds one or multiple <Cell,GameObject> pairs to the uniqueTiles property in the given QuadMaze. |
+| ApplyPrefabModifier | Adds one or multiple <QuadCell,GameObject> pairs to the uniqueTiles property in the given QuadMaze. |
