@@ -22,4 +22,4 @@ Allows the user to manually set the paths of a selected Cell.
 ### Public Methods
 | Method        | Description                                                                                    |
 | :------------ | :--------------------------------------------------------------------------------------------- |
-| ApplyPrefabModifier | Adds one or multiple <QuadCell,GameObject> pairs to the uniqueTiles property in the given QuadMaze. |
+| ApplyDataModifier | Modifies the Cell links and consequently the Grid layout|

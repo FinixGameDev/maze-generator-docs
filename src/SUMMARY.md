@@ -20,6 +20,7 @@
   - [Modifiers](./scripting_reference/modifiers/modifiers.md)
     - [IQuadMazeDataModifier](./scripting_reference/modifiers/quad_data_modifier_interface.md)
       - [CellLinkModifier](./scripting_reference/modifiers/cell_link_modifier.md)
+      - [FakeExitModifier](./scripting_reference/modifiers/fake_exit_modifier.md)
     - [IQuadMazePrefabModifier](./scripting_reference/modifiers/prefab_modifier_interface.md)
       - [AbsoluteLongestPathModifier](./scripting_reference/modifiers/absolute_longest_path_modifier.md)
       - [RelativeLongestPathModifier](./scripting_reference/modifiers/relative_longest_path_modifier.md)
